@@ -1,0 +1,6 @@
+@ShipWise.WebAPI_HostAddress = http://localhost:5258
+
+GET {{ShipWise.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
